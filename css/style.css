@@ -10,13 +10,13 @@ header {
     text-align: center;
 }
 
-.contenido-nav {
+.contenidonav {
     background-color: aqua;
     width: 100%;
     margin : auto;
     padding: 10px 0px;
 }
-.nav-bg {
+.navv {
     display: flex;
     text-align: center;
     justify-content: space-around;
